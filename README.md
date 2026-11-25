@@ -1,3 +1,5 @@
+# This is an obsolete branch: EAS 16.1 fixes have been merged upstream
+
 # EAS-4-TbSync
 
 ## Exchange Active Sync (EAS) protocol v 16.1 Initial Support
